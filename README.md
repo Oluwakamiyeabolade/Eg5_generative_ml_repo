@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![RDKit](https://img.shields.io/badge/RDKit-2023-green)](https://www.rdkit.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository contains the cheminformatics and visualization pipeline from the study:
 
@@ -130,9 +129,6 @@ Ensure the required data files are in `data/` before running (see `data/README.m
 
 ---
 
-## Dependencies
-
-See [`requirements.txt`](requirements.txt).
 
 ---
 
@@ -153,6 +149,3 @@ If you use this code, please cite:
 
 ---
 
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
